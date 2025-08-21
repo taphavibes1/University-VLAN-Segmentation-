@@ -13,4 +13,6 @@ Step 2: Connect Devices
 
 Step 3: Create VLANs on the Switch
 - Click Switch → CLI tab.
-- Enter VLAN configuration:
+- Enter VLAN configuration (check VLAN configuration for code)
+
+Step 4: Assign Switch Ports to VLANs
