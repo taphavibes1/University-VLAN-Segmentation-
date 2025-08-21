@@ -1,0 +1,2 @@
+Switch(config)# interface fa0/1
+Switch(config-if)# switchport mode trunk
